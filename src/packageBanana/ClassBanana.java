@@ -7,6 +7,7 @@ public class ClassBanana {
 		System.out.println("Pull this, added from the gitHub");
 		System.out.println("Pull this, added from the gitHub, first pull was canceled");
 				System.out.println("canceled 3rd time");
+		System.out.println("canceled 3rd time, after stash(seat-belt) it Pulled");
 
 	}
 	
