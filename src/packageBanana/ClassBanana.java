@@ -6,7 +6,8 @@ public class ClassBanana {
 		
 		System.out.println("Pull this, added from the gitHub");
 		System.out.println("Pull this, added from the gitHub, first pull was canceled");
-		
+				System.out.println("canceled 3rd time");
+
 	}
 	
 	public static void addNum(int a, int b) {
